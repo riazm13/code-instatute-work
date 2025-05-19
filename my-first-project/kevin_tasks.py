@@ -44,7 +44,6 @@ check_list(31)
 check_list(1000)
 -> returns None
 """
-
 def check_list(target_sum):
     numbers = [1, 10, 40, 23, 19, 42, 12, 18, 17, 21, 8, 2]
     seen = set()
